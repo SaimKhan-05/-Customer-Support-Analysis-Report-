@@ -1,12 +1,12 @@
-📊 Customer Support Analysis Report
+ Customer Support Analysis Report
 A Data-Driven Exploration of Customer Service Performance Using Python & Power BI
-📁 Project Overview
+ Project Overview
 
 This project analyzes 8,469 customer support tickets using Python and visualized insights using a Power BI dashboard. The dataset includes customer demographics, product information, support channels, ticket priorities, issue types, and satisfaction ratings.
 
 The goal is to uncover operational patterns, customer behavior, product performance, and support efficiency — ultimately helping businesses improve their customer experience.
 
-🎯 Objectives
+ Objectives
 
 Understand ticket trends, patterns, and root causes
 
@@ -20,7 +20,7 @@ Build a Power BI dashboard for interactive insights
 
 Provide business recommendations for customer service improvement
 
-🛠 Tech Stack
+ Tech Stack
 
 Python
 
@@ -42,7 +42,7 @@ Bar charts
 
 Matrix visualization
 
-📂 Dataset Details
+ Dataset Details
 
 The Customer Support Ticket Dataset includes:
 
@@ -60,7 +60,7 @@ Resolution Details
 
 Dataset Size: 8,469 rows × 13 columns
 
-📌 Methodology
+ Methodology
 1. Data Preparation (Python)
 
 Loaded dataset using pandas
@@ -85,8 +85,8 @@ Built a matrix for channel-wise priority distribution
 
 Visualized monthly product purchases
 
-📊 Key Insights
-✔ Ticket Trends
+ Key Insights
+ Ticket Trends
 
 Total Tickets: 8,469
 
@@ -120,7 +120,7 @@ High-priority tickets strongly correlate with lower satisfaction.
 
 Email & chat channels receive the highest number of tickets.
 
-🧠 Correlation Insights
+ Correlation Insights
 
 Priority ↑ → Satisfaction ↓ (High-priority issues generate more dissatisfaction)
 
@@ -130,7 +130,7 @@ Seasonal spikes appear in months related to holidays and sale seasons.
 
 Social media shows a surprising number of critical cases — customers escalate issues publicly.
 
-💼 Business Recommendations
+ Business Recommendations
 
 Build a dedicated High-Priority Support Team
 
@@ -144,14 +144,14 @@ Allocate extra staff during peak months
 
 Improve delivery logistics and packaging
 
-📈 Dashboard Preview
+ Dashboard Preview
 
 <img width="1353" height="739" alt="Customer Support Analysis" src="https://github.com/user-attachments/assets/02d8075c-b580-400c-ad4d-477ef306ea62" />
 
 
 The dashboard provides KPIs, product insights, monthly trends, gender-wise purchases, priority distribution, and channel-wise performance.
 
-🚀 Future Scope
+ Future Scope
 
 Sentiment analysis using NLP
 
@@ -163,7 +163,7 @@ Auto-ticket categorization using machine learning
 
 Root-cause analytics for high-volume products
 
-📜 Conclusion
+ Conclusion
 
 This project provides a complete customer support performance analysis using Python and Power BI.
 It demonstrates how data analytics can uncover key operational insights, improve service delivery, and guide product strategy.
